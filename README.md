@@ -28,7 +28,6 @@ Final tracking output, using both Lidar and camera detections,
 EKF filter and track management:
 ![Fusion output](img/tracking_results.gif)
 
-[Link to original video](img/tracking_results.mp4)
 
 # Solution - Lidar object detection
 
