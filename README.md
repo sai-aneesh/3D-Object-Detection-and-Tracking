@@ -22,7 +22,7 @@ For a full description of the project and setup instruction please see the [orig
 Answers to the project questions are in [writeup.md](writeup.md)
 
 Stucture of the Project:
-![Flowchart](img/img_title_2)
+![Flowchart](img/img_title_2_new.png)
 
 # Solution - Lidar-Camera fusion and object tracking
 
