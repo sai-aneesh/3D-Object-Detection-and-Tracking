@@ -135,7 +135,8 @@ def bev_from_pcl(lidar_pcl, configs):
 
     # NOTE: x and y are rescaled, so rescale z as well to keep the point cloud proportional, otherwise
     # the visualized pcl would be very flat. Don't do this when not trying to visualize, as
-    # it will change the magnitude (and thus filtering) of points later. No need to convert to int here.
+    # it will change the magnitude (and thus filtering) of points later. 
+    # No need to convert to int here.
     # lidar_pcl_cpy[:, 2] = lidar_pcl_cpy[:, 2] / bev_discret
 
     # step 4 : visualize point-cloud using the function show_pcl from a previous task
