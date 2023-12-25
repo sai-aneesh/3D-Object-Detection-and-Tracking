@@ -1,8 +1,9 @@
 numpy
-opencv
+scipy
+opencv-python
 protobuf
 easydict
-pytorch
+torch
 pillow
 matplotlib
 wxpython
