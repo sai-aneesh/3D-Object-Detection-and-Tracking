@@ -16,8 +16,6 @@ Lidar and camera detections. Data association based on the Single Nearest Neighb
 method, track scoring and track management (initialization, confirmation, deletion), 
 gating and field-of-view evaluation.
 
-For a full description of the project and setup instruction please see the [original README.md](README_original.md)
-
 Answers to the project questions are in [writeup.md](writeup.md)
 
 Stucture of the Project:
